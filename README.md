@@ -1,4 +1,4 @@
-# cpp-file-splitter
+# cpp-file-line-splitter
 
 ![alt text](https://github.com/stephanvandekerkhof/cpp-file-splitter/blob/master/file-splitter-v02.png)
 
