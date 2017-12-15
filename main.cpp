@@ -10,7 +10,7 @@ int main(int argc, char* argv[])
     // First off we check if the user has properly called the program with the arguments it requires:
     if (argc < 2) {
         // If no argument is passed, display a usage example to the user:
-        std::cerr << "File-splitter v0.2 by svdk" << endl << "Usage: " << argv[0] << " <FILENAME.EXT>" << std::endl;
+        std::cerr << "File-line-splitter v0.2 by svdk" << endl << "Usage: " << argv[0] << " <FILENAME.EXT>" << std::endl;
         // Exit if the condition has been met
         return 1;
     }
